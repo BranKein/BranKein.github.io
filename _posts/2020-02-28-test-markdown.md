@@ -21,6 +21,7 @@ Here's a useless table:
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
+[local_link_test](/assets/animation_chart/bargraph.html)
 
 [download_link](https://drive.google.com/uc?export=download&id=18mLfG2slJH3wbRQ_up7OM5FZ22b9H-Sj)
 
