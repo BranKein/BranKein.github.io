@@ -3,7 +3,6 @@ layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
@@ -22,6 +21,8 @@ Here's a useless table:
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
+
+[download_link](https://drive.google.com/uc?export=download&id=18mLfG2slJH3wbRQ_up7OM5FZ22b9H-Sj)
 
 
 How about a yummy crepe?
