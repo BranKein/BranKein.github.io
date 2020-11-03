@@ -15,6 +15,9 @@ author: BranKein / Yeonhyuk Kim
 
 navbar-links:
   About Me: "aboutme"
+  Categories:
+    - Portfolio: "/docs/404.html"
+    - Bamboo: "/docs/404.html"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -24,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/pno_profile_image_512.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,7 +44,7 @@ round-avatar: true
 social-network-links:
   email: "brankein13@gm.gist.ac.kr"
   facebook: 김연혁
-  github: BranKein13
+  github: BranKein
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
