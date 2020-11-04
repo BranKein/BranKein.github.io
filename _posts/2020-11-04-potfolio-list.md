@@ -13,4 +13,4 @@ comments: true
 
 아래 링크를 통해 들어가면 보다 자세한 설명이 있습니다.   
 
-[Animation Chart by d3.js](/404.html)
+[Animation Chart by d3.js](https://brankein.github.io/2020-11-04-animation-chart)
