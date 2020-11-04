@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Portfolio 리스트
-subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-tags: [test]
+tags: 
 comments: true
 ---
 
