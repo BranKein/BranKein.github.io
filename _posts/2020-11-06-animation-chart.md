@@ -7,8 +7,6 @@ tags: [animation chart, javascript, d3.js]
 comments: true
 ---
 
-#### 요약
-
 - 주 언어 : Javascript, d3.js
 - 제작 기간 : 2020.03.21 - 2020.03.30
 - 주제 : d3.js를 이용한 애니메이션 차트 생성
@@ -70,7 +68,7 @@ config.img_ano_x = 1200; //띄울 이미지의 위치
 config.img_ano_y = 300;
 
 config.use_text_ano = false; //빈공간에 띄우는 부가 텍스트 사용 여부
-config.text_ano = "Made by Yeonhyuk Kim"; //빈공간에 띄우는 부가 텍스트
+config.text_ano = "Made by Pno02"; //빈공간에 띄우는 부가 텍스트
 config.text_ano_fontsize = 30; //텍스트 글자크기
 config.text_ano_x = 1270; //텍스트의 위치
 config.text_ano_y = 800;
@@ -133,6 +131,7 @@ config.js에 const들을 더 추가해주기만 한건 아니다. 추가적으�
 - 추가적으로 표시한 랭킹의 1, 2, 3위의 위치를 커스터마이징   
 등이 있었다.    
 아래가 내가 visual.js에 따로 추가해준 부분이다.    
+
 ```javascript
 if (config.use_img_ano) {
     var img_ano = g
@@ -154,7 +153,8 @@ if (config.use_text_ano) {
         .text(config.text_ano)
         .attr("font-size", config.text_ano_fontsize);
 } //부가 텍스트
-```
+```   
+
 위에서도 언급했듯이 나는 javascript는 거의 다뤄보지 않았을 뿐더러 d3.js는 아예 
 처음 보는 라이브러리였기 때문에 위처럼 새로 기능을 추가하는 것 뿐만 아니라 config.js에 
 상수를 추가해서 커스터마이징을 더 하도록 하는 작업도 힘들었다. 어떤 라인이 어떤걸 제어하는지 
@@ -166,7 +166,7 @@ html도 거의 공부를 안했었기 때문에 div, text, href 등등의 개념
 게다가 가장 힘들었던 것은 깃헙에서 Jannchie님의 코드를 그대로 다운받고 실행을 시켜도 오류가 났던 것이다...   
 
 아무튼간 아래와 같은 수정 매뉴얼까지 만들고 나선   
-[!Crepe](/assets/img/animation_chart/modification_manual.PNG)   
+![Crepe](/assets/img/animation_chart/modification_manual.PNG)   
 굉장히 뿌듯해하면서도 기진맥진한 상태로 코딩을 끝냈다. 그리고 다시는 javascript를 하지 않겠다고 
 선언까지 했었다. 물론 포스팅을 하고 있는 지금은 인터렉티브 코딩에 빠져서 PIXI.js를 공부하고 있다. 
 게다가 d3.js도 제대로 다시 공부해 볼 생각이다.   
