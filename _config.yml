@@ -17,11 +17,12 @@ navbar-links:
   About Me: "aboutme"
   Categories:
     - Portfolio: "https://brankein.github.io/2020-11-04-potfolio-list/"
-    - Bamboo: "/docs/404.html"
+    - Personal Projects: "/404.html"
+    - PIXI.js: "/404.html"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  재능넷 페이지: "https://www.jaenung.net/?mid=view&no=25212"
 
 # --- Logo --- #
 
