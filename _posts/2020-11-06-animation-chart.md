@@ -171,4 +171,4 @@ html도 거의 공부를 안했었기 때문에 div, text, href 등등의 개념
 선언까지 했었다. 물론 포스팅을 하고 있는 지금은 인터렉티브 코딩에 빠져서 PIXI.js를 공부하고 있다. 
 게다가 d3.js도 제대로 다시 공부해 볼 생각이다.   
 
-[Full Code - Github](/404.html)
+[Full Code - Github](https://github.com/BranKein/Animation_chart_based_on_d3.js_by_Pno02.git)
