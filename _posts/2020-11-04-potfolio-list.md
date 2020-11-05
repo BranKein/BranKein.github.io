@@ -13,17 +13,11 @@ comments: true
 아래 링크를 통해 들어가면 보다 자세한 설명이 있습니다.   
 
 [(Javascript) Animation Chart by d3.js (작성중)](https://brankein.github.io/2020-11-04-animation-chart)   
-
 [(C언어) Transpose sparse matrix (미작성)](/404.html)   
-
 [(Python) Power-lifting competition (미작성)](/404.html)   
-
 [(알고리즘) 유클리드 호제법, 분할 정복, 정렬 알고리즘 (미작성)](/404.html)   
-
 [(앱인벤터) 간단한 두더지잡기 앱 (미작성)](/404.html)   
-
 [(C언어) Approximate integral, simple calculator, pi approximation (미작성)](/404.html)   
-
 [(C언어) Matrix multiplication, counting word (미작성)](/404.html)   
 
 [(C언어) Many students grading program (미작성)](/404.html)   

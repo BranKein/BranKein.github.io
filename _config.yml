@@ -16,7 +16,7 @@ author: BranKein / Yeonhyuk Kim
 navbar-links:
   About Me: "aboutme"
   Categories:
-    - Portfolio: "/docs/404.html"
+    - Portfolio: "https://brankein.github.io/2020-11-04-potfolio-list/"
     - Bamboo: "/docs/404.html"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
