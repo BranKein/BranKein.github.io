@@ -19,56 +19,29 @@ comments: true
 [(앱인벤터) 간단한 두더지잡기 앱 (미작성)](/404.html)   
 [(C언어) Approximate integral, simple calculator, pi approximation (미작성)](/404.html)   
 [(C언어) Matrix multiplication, counting word (미작성)](/404.html)   
-
 [(C언어) Many students grading program (미작성)](/404.html)   
-
 [(C#) 주민번호 확인 프로그램, 구구단 출력, 알파벳 도형 출력 (미작성)](/404.html)   
-
-[(Java) 투표 시스템 만들기 (미작성)](/404.html)   
-
+[(Java) 투표 시스템 만들기 (미작성)](/404.html)    
 [(C언어) Dynamic programing vs Greedy 알고리즘 수행시간 비교 (미작성)](/404.html)   
-
 [(Java) 이윤율 계산, 범위 내 홀수합 계산, 범위 내 소수 출력 (미작성)](/404.html)   
-
 [(알고리즘) Selection sort, quick sort algorithm (미작성)](/404.html)   
-
 [(C언어) Bresenham line algorithm (미작성)](/404.html)   
-
 [(Python) 연안관측자료 구조화 및 출력 (미작성)](/404.html)   
-
 [(Python) Coordinate pair class 생성, Notebook class 생성 (미작성)](/404.html)   
-
 [(Python) Circle class 생성 및 연산자 정의 (미작성)](/404.html)   
-
 [(C언어) Blackjack 카드 게임 구현 (미작성)](/404.html)   
-
 [(C언어) 면적 or 숫자 계산 프로그램, 16진수 사칙연산 프로그램, 배열의 EVS 출력 (미작성)](/404.html)   
-
 [(C언어) Insertion sort 구현 및 수행시간 측정 (미작성)](/404.html)   
-
 [(Android Studio) 커스터마이징 스크롤뷰 구현 (미작성)](/404.html)   
-
 [(C언어, 알고리즘) 장애물이 있을 때 길의 경우의 수 계산 (미작성)](/404.html)   
-
 [(C언어, 알고리즘) 순열 복원 순한맛 (미작성)](/404.html)   
-
 [(C언어, 알고리즘) 복합 계산기 (미작성)](/404.html)   
-
 [(C언어, 알고리즘) 거북이가 다닌 경로의 직사각형 넓이 계산 (미작성)](/404.html)   
-
 [(Android Studio) 간단한 수학 문제 생성기 (미작성)](/404.html)   
-
 [(Python, 알고리즘) 순열 복원 매운맛 (미작성)](/404.html)   
-
 [(Python, 알고리즘) Rotating list (미작성)](/404.html)   
-
 [(C언어, 알고리즘) Job accepting 순한맛 (미작성)](/404.html)
-
 [(Python, 알고리즘) Relational Algebra query문 작성 (미작성)](/404.html)   
-
 [(Python, 알고리즘) 왼쪽정렬 penalty minimization (미작성)](/404.html)   
-
 [(Python, 알고리즘) 2 x n 타일 채우는 경우의 수 (미작성)](/404.html)   
-
 [(Android Studio) 오목 앱 (미작성)](/404.html)   
-
