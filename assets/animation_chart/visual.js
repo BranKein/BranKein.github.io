@@ -62,33 +62,16 @@ function draw(data) {
 
     // 그래프 바, 글씨의 색깔 선택
     function getColor(d) {
-        var r = 0.0;
-        if (changeable_color) {
-            var colorRange = d3.interpolateCubehelix(
-                config.color_range[0],
-                config.color_range[1]
-            );
-            if (divide_changeable_color_by_type && d["type"] in config.color_ranges) {
-                var colorRange = d3.interpolateCubehelix(
-                    config.color_ranges[d["type"]][0],
-                    config.color_ranges[d["type"]][1]
-                );
-            }
-            var v =
-                Math.abs(rate[d.name] - rate["MIN_RATE"]) /
-                (rate["MAX_RATE"] - rate["MIN_RATE"]);
-            if (isNaN(v) || v == -1) {
-                return colorRange(0.6);
-            }
-            return colorRange(v);
-        } //그라디언트
-
         if (d.name in config.color)
             return config.color[d.name];
         else {
-            return d3.schemeCategory10[
-                Math.floor(d[divide_color_by].charCodeAt() % 10)
-            ];
+            var letters = '0123456789ABCDEF';
+            var color = '#';
+            for (var i = 0; i < 6; i++) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+            config.color[d.name] = color
+            return color
         }
     }
 

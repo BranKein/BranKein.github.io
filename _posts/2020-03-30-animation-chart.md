@@ -7,6 +7,8 @@ tags: [animation chart, javascript, d3.js]
 comments: true
 ---
 
+#### 요약
+
 - 주 언어 : Javascript, d3.js
 - 제작 기간 : 2020.03.21 - 2020.03.30
 - 주제 : d3.js를 이용한 애니메이션 차트 생성

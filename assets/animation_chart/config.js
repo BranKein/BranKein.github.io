@@ -57,7 +57,7 @@
     // 如果该项为true，那么按照src/color_ranges.js中的color_ranges变色，默认色板为color_range
     // 一个具体的设置模板见src/_color_ranges.js，将其更名为color_ranges.js再设置即可
     divide_changeable_color_by_type: false,
-    color_range: ["#ff7e5f", "#feb47b"],
+    color_range: ["#000000", "#ffffff"],
 
     // 附加信息内容。
     // left label

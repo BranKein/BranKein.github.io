@@ -16,9 +16,9 @@ comments: true
 아래는 대부분 알바를 진행하며 제작한 프로그램들이므로 한 주제(내가 좋아하는 인공지능)에 치우져져 있지 않고 굉장히 다양한 언어, 분야를 다룬 것을 볼 수 있습니다.
 특별한 설명이 필요 없을 정도로 간단한 프로그램도 존재합니다 :)   
 
-[(Javascript) Animation Chart by d3.js](https://brankein.github.io/2020-11-04-animation-chart)   
-[(C언어) Transpose sparse matrix (미작성)](/404.html)   
-[(Python) Power-lifting competition (미작성)](/404.html)   
+[(Javascript) Animation Chart by d3.js](https://brankein.github.io/2020-03-30-animation-chart)   
+[(C언어) Transpose sparse matrix](https://brankein.github.io/2020-04-07-transpose-sparse-matrix)   
+[(Python) Power-lifting competition](https://brankein.github.io/2020-04-15-power-lifting-competition)   
 [(알고리즘) 유클리드 호제법, 분할 정복, 정렬 알고리즘 (미작성)](/404.html)   
 [(앱인벤터) 간단한 두더지잡기 앱 (미작성)](/404.html)   
 [(C언어) Approximate integral, simple calculator, pi approximation (미작성)](/404.html)   
@@ -44,7 +44,7 @@ comments: true
 [(Android Studio) 간단한 수학 문제 생성기 (미작성)](/404.html)   
 [(Python, 알고리즘) 순열 복원 매운맛 (미작성)](/404.html)   
 [(Python, 알고리즘) Rotating list (미작성)](/404.html)   
-[(C언어, 알고리즘) Job accepting 순한맛 (미작성)](/404.html)
+[(C언어, 알고리즘) Job accepting 순한맛 (미작성)](/404.html)   
 [(Python, 알고리즘) Relational Algebra query문 작성 (미작성)](/404.html)   
 [(Python, 알고리즘) 왼쪽정렬 penalty minimization (미작성)](/404.html)   
 [(Python, 알고리즘) 2 x n 타일 채우는 경우의 수 (미작성)](/404.html)   
