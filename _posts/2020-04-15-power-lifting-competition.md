@@ -4,6 +4,7 @@ title: Power-lifting competition
 gh-repo: daattali/beautiful-jekyll
 tags: [Python, power-lifting competition]
 comments: true
+use_math: true
 ---
 
 #### 요약
