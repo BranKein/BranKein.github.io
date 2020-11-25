@@ -22,7 +22,7 @@ use_math: true
 #### 개발    
 
 $$ 
-Q = {{1.486 A R^{2/3} S^{1/2}} \over N }
+Q = {{1.486 A R^{2/3} S^{1/2}} \over N }}
 $$   
 
 Q is the flow if water(cubic feet per second), N is the roughness 
