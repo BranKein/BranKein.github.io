@@ -21,9 +21,7 @@ use_math: true
 
 #### 개발    
 
-$$ 
-Q = \frac{1.486AR^{2/3}S^{1/2}}{N}
-$$   
+$Q = \frac{1.486AR^{2/3}S^{1/2}}{N}$      
 
 Q is the flow if water(cubic feet per second), N is the roughness 
 coefficient(unitless), A is the area(square feet), S is the slope(feet/foot), 
