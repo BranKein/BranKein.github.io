@@ -13,7 +13,7 @@ comments: true
 
 아래는 제가 고등학교때와 대학교 때 제작했던 프로그램들입니다.    
 [(Unity, C#) 사방댐 테스트를 위한 산사태 시뮬레이션 (미작성)](/404.html)   
-[(Android Studio, Python, AI) 마중물 (작성중)](/404.html)   
+[(Android Studio, Python, AI) 마중물 (작성중)](https://brankein.github.io/2020-02-10-mjm)   
 [(Java) 시간표 제작 프로그램, LSP (미작성)](/404.html)   
 
 아래는 대부분 알바를 진행하며 제작한 프로그램들이므로 한 주제(내가 좋아하는 인공지능)에 치우져져 있지 않고 굉장히 다양한 언어, 분야를 다룬 것을 볼 수 있습니다.
