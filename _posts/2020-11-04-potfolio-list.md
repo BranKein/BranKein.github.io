@@ -8,9 +8,6 @@ comments: true
 제가 지금까지 제작했던 프로그램들의 리스트입니다.   
 하나 기억해야 하는 건... 전 인공지능 개발자를 꿈꾸고 있답니다 :)
 
-홍보!
-[STAR Library 포스트 코로나19 시대, 스마트한 연구자를 위한 이벤트](https://brankein.github.io/2020-12-06-star-library-event)
-
 아래는 제가 고등학교때와 대학교 때 제작했던 프로그램들입니다.    
 [(Unity, C#) 사방댐 테스트를 위한 산사태 시뮬레이션 (미작성)](/404.html)   
 [(Android Studio, Python, AI) 마중물 (작성중)](https://brankein.github.io/2020-02-10-mjm)   
